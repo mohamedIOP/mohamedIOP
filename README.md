@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Hossam  
 
-<!--
-**mohamedIOP/mohamedIOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior **Electronics and Communication Engineering** student  
+⚡ Passionate about **Digital Electronics & Hardware Design**  
+💻 Skilled in **Verilog** & **C++**  
+🌱 Currently exploring projects to sharpen my skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech & Tools  
+![Verilog](https://img.shields.io/badge/HDL-Verilog-blue?logo=verilog)  
+![C++](https://img.shields.io/badge/Code-C++-00599C?logo=cplusplus&logoColor=white)  
+![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git)  
+![Linux](https://img.shields.io/badge/OS-Linux-yellow?logo=linux)  
+
+---
+
+## 📊 GitHub Stats  
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedIOP&show_icons=true&theme=radical)  
+
+---
+
+## 🌟 About Me  
+- Interested in **RTL Design, Digital IC Design, and Embedded Systems**  
+- Love learning by **building projects** and solving real-world problems  
+- Always open to **collaborating on electronics/software projects**  
+
+---
+
+📫 **Let’s Connect:**  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mohamedIOP)  
