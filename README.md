@@ -1,10 +1,17 @@
 # 👋 Hi, I'm Mohamed Hossam  
-
-🎓 Junior **Electronics and Communication Engineering** student  
-⚡ Passionate about **Digital Electronics & Hardware Design**  
-💻 Skilled in **Verilog** & **C++**  
-🌱 Currently exploring projects to sharpen my skills  
-
+<table>
+<tr>
+<td style="border: none;">
+  🎓 Junior **Electronics and Communication Engineering** student <br>
+  ⚡ Passionate about **Digital Electronics & Hardware Design** <br>
+  💻 Skilled in **Verilog** & **C++** <br>
+  🌱 Currently exploring projects to sharpen my skills  
+</td>
+<td style="border: none;">
+<img src="Detective Conan Shinichi Kudo GIF - Detective Conan Shinichi Kudo Its Elementary - Discover & Share GIFs.gif" alt="Detective GIF"/>
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Tech & Tools  
