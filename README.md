@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td style="border: none;">
-  🎓 Junior Electronics and Communication Engineering student <br>
+  🎓 Senior-1 Electronics and Communication Engineering student <br>
   ⚡ Passionate about Digital Electronics & Hardware Design <br>
   💻 Skilled in Verilog & C++ <br>
   🌱 Currently exploring projects to sharpen my skills  
