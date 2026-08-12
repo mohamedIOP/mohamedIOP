@@ -23,7 +23,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedIOP&show_icons=true&theme=radical)  
+![Mohamed's GitHub stats](https://github-readme-stats.shion.dev/api?username=mohamedIOP&show_icons=true&theme=radical)  
 
 ---
 
