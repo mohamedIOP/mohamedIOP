@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 👋 Hi, I'm Mohamed Hossam  
 <table>
 <tr>
@@ -10,18 +12,26 @@
 </td>
 </tr>
 </table>
+
+## 📊 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.shion.dev/api?username=mohamedIOP&show_icons=true&theme=radical)
+
 ---
 
-## 📊 GitHub Stats  
-![Mohamed's GitHub stats](https://github-readme-stats.shion.dev/api?username=mohamedIOP&show_icons=true&theme=radical)  
+<div align="center">
+
+## 🌟 About Me
+
+💻 Interested in **Digital IC, and SWE**
+
+🧠 INTJ
 
 ---
-
-## 🌟 About Me  
-- Interested in **Digital IC Design, and SWE**  
-- INTJ
----
+</div>
 
 📫 **Let’s Connect:**  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mohamedIOP)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hossam-4133841b2/)  
+
+</div>
